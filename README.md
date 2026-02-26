@@ -1,5 +1,7 @@
 # Close Comments – Facebook / Meta Graph API
 
+> **OBS: Detta skript är otestat och har inte körts mot Meta Graph API i produktion. Verifiera noggrant med `--dry-run` innan du kör skarpt.**
+
 CLI-verktyg som stänger kommentarsfältet (`is_comment_enabled=false`) på gamla Facebook-sideinlägg via Meta Graph API.
 
 ## Funktioner
