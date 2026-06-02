@@ -155,6 +155,10 @@ Varje körning genererar en rapport (JSON eller CSV) med fält:
 - Saknade behörigheter loggas tydligt med felmeddelande och `fbtrace_id`
 - Exitkod `2` om det finns fel bland uppdateringarna
 
+## Om projektet
+
+> Det här är ett personligt hobbyprojekt som jag byggt för eget bruk och lagt upp ifall det är till nytta för någon annan. Jag jobbar på det på fritiden, så issues och PR:ar är välkomna men svar kan dröja. Använd på egen risk.
+
 ## Projektstruktur
 
 ```
